@@ -14,9 +14,11 @@ Diese Software hilft in schweren Momenten: Bei emotionalem Schmerz, Verlust, Gef
 
 ## Inspiration
 
-В моем родном талдикском языке есть такая фраза: **"дардата гирам"** – что означает *"возьму твою боль"*.
+In meiner Muttersprache Tadschikisch gibt es einen Satz:
 
-Если эта программа возьмет боль хотя бы одного человека – это моё счастье.
+**"дардата гирам" (dardata giram)** – *"Ich nehme deinen Schmerz"*.
+
+Wenn dieses Programm auch nur einem Menschen seinen Schmerz nimmt – dann ist das mein Glück.
 
 — Safwat Burkhonov
 
@@ -24,7 +26,7 @@ Diese Software hilft in schweren Momenten: Bei emotionalem Schmerz, Verlust, Gef
 
 ## Funktionen
 
-- Grüner Konzentriche Tunnel
+- Grüner konzentrischer Tunnel
 - Wählbare Frequenzen: 8 Hz, 10 Hz, 12 Hz
 - 60 Sekunden Session
 - Maussteuerung (Buttons am unteren Bildschirmrand)
